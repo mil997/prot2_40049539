@@ -4,7 +4,7 @@
   <h2>Formulario de Registro</h2>
   <form action="procesar_registro.php" method="POST">
     <div class="mb-3">
-      <label for="nombre" class="form-label">Nombre</label>
+      <label for="nombre" class="form-label">Nombre y Apellido</label>
       <input type="text" class="form-control" id="nombre" name="nombre" required>
     </div>
     <div class="mb-3">
