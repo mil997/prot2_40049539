@@ -12,7 +12,7 @@
 <!-- Formulario de Registro -->
 
 <div class="container py-5">
-  <h2>Ingresa tu cuenta</h2>
+  <h2>Iniciar sesion</h2>
   <form action="procesar_registro.php" method="POST">
     <div class="mb-3">
       <label for="correo" class="form-label">Correo electrónico</label>

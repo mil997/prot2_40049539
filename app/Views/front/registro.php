@@ -15,12 +15,20 @@
   <h2>Formulario de Registro</h2>
   <form action="procesar_registro.php" method="POST">
     <div class="mb-3">
-      <label for="nombre" class="form-label">Nombre y Apellido</label>
+      <label for="nombre" class="form-label">Nombre</label>
+      <input type="text" class="form-control" id="nombre" name="nombre" required autocomplete="name">
+    </div>
+        <div class="mb-3">
+      <label for="nombre" class="form-label">Apellido</label>
       <input type="text" class="form-control" id="nombre" name="nombre" required autocomplete="name">
     </div>
     <div class="mb-3">
       <label for="correo" class="form-label">Correo electrónico</label>
       <input type="email" class="form-control" id="correo" name="correo" required autocomplete="email">
+    </div>
+        <div class="mb-3">
+      <label for="nombre" class="form-label">Usuario</label>
+      <input type="text" class="form-control" id="nombre" name="nombre" required autocomplete="name">
     </div>
     <div class="mb-3">
       <label for="password" class="form-label">Contraseña</label>
