@@ -9,7 +9,7 @@
     </div>
   </div>
   <div>
-       <h6 class="text-center">
+       <h6 class="text-center mt-5">
             Derechos de autor 2025 - Rodrigo Mansilla &copy; | Todos los derechos reservados.
        </h6>
   </div>

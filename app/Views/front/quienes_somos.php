@@ -9,6 +9,11 @@
                 Envíos rápidos a todo el país
                 Tu setup no está completo sin nosotros.
                 ¡Jugá con ventaja, elegí como un pro!
+                <div>
+                    <h5 class="text-center mt-5 p-5 text-white-50">
+                        Estamos ubicados en Maipu 592 | Merlo
+                    </h5>
+                </div>
                </h4>
         </div>
     </div>
