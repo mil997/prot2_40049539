@@ -10,7 +10,7 @@
   </div>
   <div>
        <h6 class="text-center">
-            Derechos de autor 2025 - Rodrigo Mansilla &copy; | Empresa dedicada al gaming
+            Derechos de autor 2025 - Rodrigo Mansilla &copy; | Todos los derechos reservados.
        </h6>
   </div>
 </footer>
