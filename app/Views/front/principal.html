@@ -52,7 +52,7 @@
         <img src="assets/img/pc para el carrusel.jpg" class="card-img-top" alt="imagen de pc para mostrar">
         <div class="card-body">
           <h5 class="card-title">PC Gamer</h5>
-          <p class="card-text">Pc Rocket Athlon 300g - 8gb - 500gb - Gabinete kit</p>
+          <p class="card-text">Pc Rocket Athlon 300g - 8gb - 500gb - Mother Msi - Gabinete kit</p>
           <a href="#" class="btn btn-primary">Comprar</a>
         </div>
       </div>
@@ -72,7 +72,7 @@
         <img src="assets/img/pc para mostrar4.jpg" class="card-img-top" alt="imagen de pc para mostrar">
         <div class="card-body">
           <h5 class="card-title">PC Gamer</h5>
-          <p class="card-text">Pc Rocket Asus 06 Ryzen 5 7600 - Rtx 4060 Ti</p>
+          <p class="card-text">Pc Rocket Asus 06 Ryzen 5 7600 - 32gb - SSD-512gb - Rtx 4060 Ti</p>
           <a href="#" class="btn btn-primary">Comprar</a>
         </div>
       </div>
